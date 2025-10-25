@@ -2,7 +2,6 @@
 ## 定义可测mapping：
 $X$：一个**measurable space**
 $Y$：一个**topological space**
-H~2~O
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE1NTYwNDZdfQ==
+eyJoaXN0b3J5IjpbLTc5MzY4ODY2NSwtMTk5MTU1NjA0Nl19
 -->
