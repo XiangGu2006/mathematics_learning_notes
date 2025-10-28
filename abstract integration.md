@@ -1,4 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 # 1.可测性的概念
 ## 定义可测映射
 ### 1.1a **连续的定义**
